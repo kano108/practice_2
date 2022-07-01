@@ -1,0 +1,78 @@
+ .App {
+  text-align: center;
+}
+/* 
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  } 
+} */
+
+.form-control{
+  width: 400px;
+  /* margin: 2% auto; */
+  text-align: center;
+  
+}
+.form-table{
+  width: 350px;
+  margin: 2% auto;
+  font-weight: bold;
+}
+.login-form-table{
+  width: 350px;
+  margin: 2% auto;
+  font-weight: bold;
+
+}
+.register-background{
+  background-image: url("https://png.pngtree.com/thumb_back/fw800/back_our/20190623/ourmid/pngtree-light-red-and-blue-contrast-color-small-fresh-display-background-image_249993.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 600px;
+}
+.login-background{
+  background-image: url("https://badcoffee.club/wp-content/uploads/2021/04/macOS-Big-Sur-Login-Screen-Background-Image.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 500px;
+}
+.api_data{
+  width: 980px;
+  height: auto;
+  margin: 2% auto;
+}
+.select_image{
+  width: 150px;
+  height: 90px;
+}
+  
